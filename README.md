@@ -23,7 +23,8 @@ Corda, Hyperledger
 
 ## 채굴(mining)
 
-## 스마트 컨트랙트 언어
+## 스마트 컨트랙트 언어 및 dapp 개발
+Solidity, Viper, EVM
 
 ## 비트코인(bitcoin)
 SegWit, Lightning Network, 
