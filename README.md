@@ -39,3 +39,6 @@ SegWit, Lightning Network,
 
 ## 분산 거래소(DEX: decentralized exchanages)
 Airswap, 0x protocol, open ANX, kyber network, bitshares, bancor, 
+
+## 사이퍼펑크(Cypherpunks)와 전자화폐의 역사
+b-money, digiCash, Nick Szabo, Adam Back, David Chaum, 
