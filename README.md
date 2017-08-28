@@ -21,6 +21,9 @@ Corda, Hyperledger
 
 ## 암호경제학(cryptoeconomics)
 
+## 암호학(cryptography)
+전자서명(e.g. ECDSA, Schnorr signature, Lamport signature), 해시함수(e.g. SHA-256, SHA-1), zk-SNARKs
+
 ## 채굴(mining)
 
 ## 스마트 컨트랙트 언어 및 dapp 개발
