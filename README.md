@@ -15,7 +15,7 @@
 Corda, Hyperledger
 
 ## 블록체인간 통신(inter-blockchain communications)
-텐더민트, 폴카닷
+텐더민트, 폴카닷, BTC relay, 사이드체인, 드라이브체인, Project Alchemy(ZCash + Ethereum), Atomic Swaps, Ripple Interledger
 
 ## 스마트 컨트랙트(smart contract)와 오라클(oracle)
 
